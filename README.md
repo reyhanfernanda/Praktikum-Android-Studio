@@ -6,7 +6,7 @@ About Me [https://github.com/reyhanfernanda/Praktikum-Android-Studio/tree/master
 
 Overview [https://github.com/reyhanfernanda/Praktikum-Android-Studio/tree/master/per-5] (Pertemuan-5)
 
-Jetpack Navigation [https://github.com/reyhanfernanda/Praktikum-Android-Studio/tree/master/per-6/JetpackNavigation] (pertemuan-6)
+Jetpack Navigation [https://github.com/reyhanfernanda/Praktikum-Android-Studio/tree/master/per-6/JetpackNavigation] [pertemuan-6]
 
 
 
