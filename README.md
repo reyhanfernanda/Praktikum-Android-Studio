@@ -1,5 +1,9 @@
 # Praktikum-Android-Studio
 
-latihan kotlin (per-3){https://drive.google.com/open?id=1iJuZDJB5UCPbLugqC4N4eSkvIH1o55UU}
+latihan kotlin {pertemuan-3}[https://drive.google.com/drive/folders/1iJuZDJB5UCPbLugqC4N4eSkvIH1o55UU?usp=sharing]
+
+About Me {pertemuan-4}[https://github.com/reyhanfernanda/Praktikum-Android-Studio/tree/master/per-4]
+
+
 
 
